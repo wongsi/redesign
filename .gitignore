@@ -1,0 +1,32 @@
+.metadata
+.vscode
+.DS_Store
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.idea
+
+### IntelliJ IDEA ###
+logs
+.idea
+*.iws
+*.iml
+*.ipr
+log.*
+
