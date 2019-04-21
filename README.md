@@ -13,7 +13,8 @@
     - [bridge](DesignPatterns/Explained/04.bridge.md)
     - [abstract factory](DesignPatterns/Explained/05.abstract-factory.md)
     - [decorator](DesignPatterns/Explained/06.decorator.md)
-    - [facade](DesignPatterns/Explained/01.facade.md)
+    - [observer](DesignPatterns/Explained/07.observer.md)
+    - [Template Method](DesignPatterns/Explained/08.template-method.md)
 
 
 
