@@ -15,7 +15,7 @@
     - [decorator](DesignPatterns/Explained/06.decorator.md)
     - [observer](DesignPatterns/Explained/07.observer.md)
     - [Template Method](DesignPatterns/Explained/08.template-method.md)
-
-
-
+* [Head First设计模式](DesignPatterns/HeadFirst/README.md)
+* [设计模式之禅](DesignPatterns/Zen/README.md)
+    - [15.命令模式](DesignPatterns/Zen/15.command.md)
 
